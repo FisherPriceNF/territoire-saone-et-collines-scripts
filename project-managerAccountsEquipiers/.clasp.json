@@ -1,0 +1,6 @@
+{
+  "scriptId": "1AbCDefGhIjKlMnOpQrStUvWxYz1234567890abcdef",
+  "rootDir": "build",
+  "projectType": "standalone",
+  "filePushOrder": ["appsscript.json", "**/*.js"]
+}
