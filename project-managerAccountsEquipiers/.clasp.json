@@ -1,6 +1,16 @@
 {
-  "scriptId": "1AbCDefGhIjKlMnOpQrStUvWxYz1234567890abcdef",
+  "scriptId": "1egpJKr5J-VD5mJklcQAykc5ZwKMQkJz4xtXeLAaaWHRN-tlBYBeJBnER",
   "rootDir": "build",
-  "projectType": "standalone",
-  "filePushOrder": ["appsscript.json", "**/*.js"]
+  "scriptExtensions": [
+    ".js",
+    ".gs"
+  ],
+  "htmlExtensions": [
+    ".html"
+  ],
+  "jsonExtensions": [
+    ".json"
+  ],
+  "filePushOrder": [],
+  "skipSubdirectories": false
 }
