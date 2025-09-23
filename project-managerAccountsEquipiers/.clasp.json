@@ -1,5 +1,8 @@
 {
   "scriptId": "1egpJKr5J-VD5mJklcQAykc5ZwKMQkJz4xtXeLAaaWHRN-tlBYBeJBnER",
+  "parentId": [
+    "1qp39J_haIULIlbA8ySqFpMeRqSxvxAnf"
+  ],
   "rootDir": "build",
   "scriptExtensions": [
     ".js",
